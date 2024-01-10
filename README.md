@@ -1,4 +1,4 @@
-<h1>request-credit-system</h1>
+<h1>credit-system-application</h1>
 <p align="center">API Rest para um Sistema de Analise de Solicitação de Crédito</p>
 <p align="center">
      <a alt="Java">
@@ -22,3 +22,10 @@
 </p>
 
 <h3>Descrição do Projeto</h3>
+## CRUD em Kotlin com uso de SpringBoot desenvolvido como parte do curso de "Desenvolvimento Back-End em Kotlin" da DIO. Quaisquer mudanças e críticas são bem vindas a este projeto.
+
+<h3>Requisitos</h3>
+## Para rodar este projeto em sua máquina basta:
+      <li>Instalar o IntelliJ IDEA <code>cd </code></li> 
+      <li>Fazer um clone do repositório em sua máquina <code>cd </code></li> 
+      <li>Instalar as dependencias necessáarias <code>cd </code></li>  
