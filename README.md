@@ -26,6 +26,6 @@ CRUD em Kotlin com uso de SpringBoot desenvolvido como parte do curso de "Desenv
 
 <h3>Requisitos</h3>
 Para rodar este projeto em sua máquina basta:
-      <li>Instalar o IntelliJ IDEA <code>cd </code></li> 
-      <li>Fazer um clone do repositório em sua máquina <code>cd </code></li> 
-      <li>Instalar as dependencias necessáarias <code>cd </code></li>  
+      <li>Instalar o IntelliJ IDEA </li> 
+      <li>Fazer um clone do repositório em sua máquina </li> 
+      <li>Instalar as dependencias solicitadas pela IDEA </li>  
